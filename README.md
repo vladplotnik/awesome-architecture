@@ -2,15 +2,15 @@
 
 ## Books
 
+* [12 Essential Skills for Software Architects](https://www.oreilly.com/library/view/12-essential-skills/9780132099509/)
+* [The Software Architect Elevator](https://www.oreilly.com/library/view/the-software-architect/9781492077534/)
 * [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
-* [Building Evolutionary Architectures](https://www.thoughtworks.com/books/building-evolutionary-architectures)
-* [Software Architect's Handbook](https://www.packtpub.com/au/application-development/software-architects-handbook)
-* [Designing Distributed Systems](https://azure.microsoft.com/en-au/resources/designing-distributed-systems/)
-* [A Philosophy of Software Design](https://www.goodreads.com/book/show/43701534-a-philosophy-of-software-design)
-* [Software Design for Flexibility](https://mitpress.mit.edu/books/software-design-flexibility)
-* [Software Architecture in Practice, 4th Edition](https://www.oreilly.com/library/view/software-architecture-in/9780136885979/)
+* [Building Evolutionary Architectures](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)
+* [Solutions Architect's Handbook](https://www.oreilly.com/library/view/solutions-architects-handbook/9781801816618/)
+* [Designing Distributed Systems](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/)
+* [Software Architecture in Practice](https://www.oreilly.com/library/view/software-architecture-in/9780136885979/)
 * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-* [The Software Architect Elevator](https://architectelevator.com/book/)
+* [The Pragmatic Programmer](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
 
 ## Patterns
 
