@@ -14,17 +14,16 @@
 
 ## Patterns
 
-* [Awesome Software Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
-* [A pattern language for microservices](https://microservices.io/patterns/index.html)
-* [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
+* [Microservices Patterns](https://www.oreilly.com/library/view/microservices-patterns/9781617294549/)
+* [API Design Patterns](https://www.oreilly.com/library/view/api-design-patterns/9781617295850/)
+* [Design Patterns for Cloud Native Applications](https://www.oreilly.com/library/view/design-patterns-for/9781492090700/)
+* [Implementing Domain-Driven Design](https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/)
 
 ## Cloud Native
 
 * [Cloud-Native Applications: Ship Faster, Reduce Risk, and Grow Your Business](https://pivotal.io/cloud-native)
 * [The Twelve-Factor App](https://12factor.net/)
-* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
-* [Azure solution architectures](https://azure.microsoft.com/en-au/solutions/architecture/)
 * [Azure Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
