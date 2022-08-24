@@ -17,13 +17,12 @@
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Microservices Patterns](https://www.oreilly.com/library/view/microservices-patterns/9781617294549/)
 * [API Design Patterns](https://www.oreilly.com/library/view/api-design-patterns/9781617295850/)
-* [Design Patterns for Cloud Native Applications](https://www.oreilly.com/library/view/design-patterns-for/9781492090700/)
 * [Implementing Domain-Driven Design](https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/)
 
 ## Cloud Native
 
-* [Cloud-Native Applications: Ship Faster, Reduce Risk, and Grow Your Business](https://pivotal.io/cloud-native)
-* [The Twelve-Factor App](https://12factor.net/)
-* [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
+* [Design Patterns for Cloud Native Applications](https://www.oreilly.com/library/view/design-patterns-for/9781492090700/)
+* [Serverless Architectures on AWS](https://www.oreilly.com/library/view/serverless-architectures-on/9781617295423/)
+* [Serverless Security](https://www.oreilly.com/library/view/serverless-security/9781492082538/)
 * [Azure Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+* [AWS Architecture Center](https://aws.amazon.com/architecture/)
