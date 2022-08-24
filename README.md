@@ -25,5 +25,6 @@
 * [Design Patterns for Cloud Native Applications](https://www.oreilly.com/library/view/design-patterns-for/9781492090700/)
 * [Serverless Architectures on AWS](https://www.oreilly.com/library/view/serverless-architectures-on/9781617295423/)
 * [Serverless Security](https://www.oreilly.com/library/view/serverless-security/9781492082538/)
+* [Azure Cloud Native Architecture Mapbook](https://www.oreilly.com/library/view/the-azure-cloud/9781800562325/)
 * [Azure Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
