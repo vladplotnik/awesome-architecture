@@ -14,6 +14,7 @@
 
 ## Patterns
 
+* [Design Patterns](https://sourcemaking.com/design_patterns)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Microservices Patterns](https://www.oreilly.com/library/view/microservices-patterns/9781617294549/)
 * [API Design Patterns](https://www.oreilly.com/library/view/api-design-patterns/9781617295850/)
